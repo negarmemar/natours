@@ -1,0 +1,11 @@
+{
+  "liveSassCompile.settings.compileOnWatch": true,
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "liveServer.settings.port": 5501,
+  "workbench.quickOpen.closeOnFocusLost": false,
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.sortOrder": "type",
+  "search.sortOrder": "default",
+  "files.trimFinalNewlines": true,
+  "editor.formatOnSave": true
+}
